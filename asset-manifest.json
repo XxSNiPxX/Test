@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/XxSNiPxX/Test.git/static/css/main.902761ba.chunk.css",
+    "main.js": "/XxSNiPxX/Test.git/static/js/main.cbd56f58.chunk.js",
+    "main.js.map": "/XxSNiPxX/Test.git/static/js/main.cbd56f58.chunk.js.map",
+    "runtime-main.js": "/XxSNiPxX/Test.git/static/js/runtime-main.061d3efd.js",
+    "runtime-main.js.map": "/XxSNiPxX/Test.git/static/js/runtime-main.061d3efd.js.map",
+    "static/js/2.b963579e.chunk.js": "/XxSNiPxX/Test.git/static/js/2.b963579e.chunk.js",
+    "static/js/2.b963579e.chunk.js.map": "/XxSNiPxX/Test.git/static/js/2.b963579e.chunk.js.map",
+    "index.html": "/XxSNiPxX/Test.git/index.html",
+    "precache-manifest.65a65f26a817b85cc42acd1c60830b74.js": "/XxSNiPxX/Test.git/precache-manifest.65a65f26a817b85cc42acd1c60830b74.js",
+    "service-worker.js": "/XxSNiPxX/Test.git/service-worker.js",
+    "static/css/main.902761ba.chunk.css.map": "/XxSNiPxX/Test.git/static/css/main.902761ba.chunk.css.map",
+    "static/js/2.b963579e.chunk.js.LICENSE.txt": "/XxSNiPxX/Test.git/static/js/2.b963579e.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/XxSNiPxX/Test.git/static/media/SFOuterLimitsDistUpright.2273a3bb.ttf",
+    "static/media/logo.55795b4f.png": "/XxSNiPxX/Test.git/static/media/logo.55795b4f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.061d3efd.js",
+    "static/js/2.b963579e.chunk.js",
+    "static/css/main.902761ba.chunk.css",
+    "static/js/main.cbd56f58.chunk.js"
+  ]
+}
